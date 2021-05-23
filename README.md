@@ -1,31 +1,38 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This is a simple maze game. The player character is camping out in the woods, but he forgot to bring firewood for his campfire! There are some branches scattered throughout the forest, and he'll need at least four in order to make a decent fire.
 
-{Provide a description the game that you wrote. Describe how to play your game.}
+Controls:
+* W = walk up
+* A = walk left
+* S = walk down
+* D = walk right
+* L. Shift = run
+* Esc. = quit game
 
-{Describe your purpose for writing this software.}
+I made this software primarily to become familiar with the Arcade library and its various functions and features and to continue to practice coding with Python. 
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+Here's a link to a demo of my program: [Software Demo Video](https://youtu.be/-OqaJcqvfoU)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+* Visual Studio Code
+* Python (3.9.4) 64-bit
+* Git / GitHub
+* The Python Arcade Library
 
 # Useful Websites
 
 Here's a list of websites that I found helpful while working on this program:
 
+* [W3Schools - Python Tutorial](https://www.w3schools.com/python/default.asp)
+* [Python (3.9.4) Standard Library](https://docs.python.org/3/library/)
 * [The Python Arcade Library](https://arcade.academy/index.html)
 * [Arcade: A Primer on the Python Game Framework](https://realpython.com/arcade-python-game-framework/)
 
 # Future Work
 
-This is a list of things that I'd like to add in the future.
+Here's a list of things that I'd like to add or change in the future:
 
 * Proper screens (Title, Instruction, Game Completion)
 * A score-keeping system
